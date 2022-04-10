@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>呆呆的初学者</title>
+  <icon>https://www.webpolayer.com/icon.png</icon>
+  <subtitle>子不语，怪力乱神。</subtitle>
+  <link href="https://www.webpolayer.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.webpolayer.com/"/>
+  <updated>2022-04-10T12:47:56.516Z</updated>
+  <id>https://www.webpolayer.com/</id>
+  
+  <author>
+    <name>Webpoplayer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CentOS 内核升级</title>
+    <link href="https://www.webpolayer.com/centos-kernel-upgrade.html"/>
+    <id>https://www.webpolayer.com/centos-kernel-upgrade.html</id>
+    <published>2022-04-10T12:38:34.738Z</published>
+    <updated>2022-04-10T12:47:56.516Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;查询当前内核版本&lt;/p&gt;
+&lt;pre class=&quot; language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;sudo&lt;/span&gt; &lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="CentOS" scheme="https://www.webpolayer.com/categories/CentOS/"/>
+    
+    
+    <category term="CentOS" scheme="https://www.webpolayer.com/tags/CentOS/"/>
+    
+    <category term="内核" scheme="https://www.webpolayer.com/tags/%E5%86%85%E6%A0%B8/"/>
+    
+    <category term="kernel" scheme="https://www.webpolayer.com/tags/kernel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Zabbix分布式构建</title>
+    <link href="https://www.webpolayer.com/zabbix-proxy-build.html"/>
+    <id>https://www.webpolayer.com/zabbix-proxy-build.html</id>
+    <published>2021-11-03T10:41:15.282Z</published>
+    <updated>2021-11-03T11:34:13.473Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Zabbix-分布式构建&quot;&gt;&lt;a href=&quot;#Zabbix-分布式构建&quot; class=&quot;headerlink&quot; title=&quot;Zabbix  分布式构建&quot;&gt;&lt;/a&gt;Zabbix  分布式构建&lt;/h3&gt;&lt;h4 id=&quot;0x01-环境介绍&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Zabbix" scheme="https://www.webpolayer.com/categories/Zabbix/"/>
+    
+    
+    <category term="Zabbix" scheme="https://www.webpolayer.com/tags/Zabbix/"/>
+    
+    <category term="分布式" scheme="https://www.webpolayer.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+    <category term="Proxy" scheme="https://www.webpolayer.com/tags/Proxy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker部署Bitwarden</title>
+    <link href="https://www.webpolayer.com/buid-bitwarden.html"/>
+    <id>https://www.webpolayer.com/buid-bitwarden.html</id>
+    <published>2021-07-04T05:59:23.805Z</published>
+    <updated>2021-07-04T05:58:43.661Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Docker部署Bitwarden&quot;&gt;&lt;a href=&quot;#Docker部署Bitwarden&quot; class=&quot;headerlink&quot; title=&quot;Docker部署Bitwarden&quot;&gt;&lt;/a&gt;Docker部署Bitwarden&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/tags/Docker/"/>
+    
+    <category term="bitwarden" scheme="https://www.webpolayer.com/tags/bitwarden/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker-compose部署开源EFK与winlogbeat收集分析Window日志</title>
+    <link href="https://www.webpolayer.com/build-efk.html"/>
+    <id>https://www.webpolayer.com/build-efk.html</id>
+    <published>2021-07-03T17:33:41.683Z</published>
+    <updated>2021-07-04T06:38:21.411Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Docker-compose部署开源EFK与winlogbeat收集分析Window日志&quot;&gt;&lt;a href=&quot;#Docker-compose部署开源EFK与winlogbeat收集分析Window日志&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="EFK" scheme="https://www.webpolayer.com/categories/EFK/"/>
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/tags/Docker/"/>
+    
+    <category term="EFK" scheme="https://www.webpolayer.com/tags/EFK/"/>
+    
+    <category term="winlogbeat" scheme="https://www.webpolayer.com/tags/winlogbeat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS7 部署Zabbix5.0</title>
+    <link href="https://www.webpolayer.com/buid-zabbix.html"/>
+    <id>https://www.webpolayer.com/buid-zabbix.html</id>
+    <published>2021-07-01T14:58:43.281Z</published>
+    <updated>2021-07-01T15:21:51.782Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;CentOS7-部署Zabbix5-0&quot;&gt;&lt;a href=&quot;#CentOS7-部署Zabbix5-0&quot; class=&quot;headerlink&quot; title=&quot;CentOS7 部署Zabbix5.0&quot;&gt;&lt;/a&gt;CentOS7</summary>
+        
+      
+    
+    
+    
+    <category term="Zabbix" scheme="https://www.webpolayer.com/categories/Zabbix/"/>
+    
+    
+    <category term="CentOS" scheme="https://www.webpolayer.com/tags/CentOS/"/>
+    
+    <category term="Zabbix" scheme="https://www.webpolayer.com/tags/Zabbix/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx代理主机内多容器向外暴露</title>
+    <link href="https://www.webpolayer.com/nginx-proxy.html"/>
+    <id>https://www.webpolayer.com/nginx-proxy.html</id>
+    <published>2021-07-01T11:42:34.040Z</published>
+    <updated>2021-07-01T12:17:01.624Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Nginx代理主机内多容器向外暴露&quot;&gt;&lt;a href=&quot;#Nginx代理主机内多容器向外暴露&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="nginx" scheme="https://www.webpolayer.com/categories/nginx/"/>
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/tags/Docker/"/>
+    
+    <category term="Nginx" scheme="https://www.webpolayer.com/tags/Nginx/"/>
+    
+    <category term="多容器" scheme="https://www.webpolayer.com/tags/%E5%A4%9A%E5%AE%B9%E5%99%A8/"/>
+    
+    <category term="代理" scheme="https://www.webpolayer.com/tags/%E4%BB%A3%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CentOS hydra安装使用</title>
+    <link href="https://www.webpolayer.com/hydra.html"/>
+    <id>https://www.webpolayer.com/hydra.html</id>
+    <published>2021-05-30T11:40:01.531Z</published>
+    <updated>2021-07-01T12:22:20.436Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;CentOS-hydra安装使用&quot;&gt;&lt;a href=&quot;#CentOS-hydra安装使用&quot; class=&quot;headerlink&quot; title=&quot;CentOS hydra安装使用&quot;&gt;&lt;/a&gt;CentOS hydra安装使用&lt;/h3&gt;&lt;p&gt;hydra</summary>
+        
+      
+    
+    
+    
+    <category term="Hydra" scheme="https://www.webpolayer.com/categories/Hydra/"/>
+    
+    
+    <category term="CentOS" scheme="https://www.webpolayer.com/tags/CentOS/"/>
+    
+    <category term="hydra" scheme="https://www.webpolayer.com/tags/hydra/"/>
+    
+    <category term="爆破工具" scheme="https://www.webpolayer.com/tags/%E7%88%86%E7%A0%B4%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kubeadm方式部署Kubernetes集群</title>
+    <link href="https://www.webpolayer.com/kubeadm-buid-k8s.html"/>
+    <id>https://www.webpolayer.com/kubeadm-buid-k8s.html</id>
+    <published>2021-05-16T12:38:08.965Z</published>
+    <updated>2021-07-01T12:16:38.958Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Kubeadm方式部署Kubernetes集群&quot;&gt;&lt;a href=&quot;#Kubeadm方式部署Kubernetes集群&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Kubernetes" scheme="https://www.webpolayer.com/categories/Kubernetes/"/>
+    
+    
+    <category term="Kubernetes" scheme="https://www.webpolayer.com/tags/Kubernetes/"/>
+    
+    <category term="部署" scheme="https://www.webpolayer.com/tags/%E9%83%A8%E7%BD%B2/"/>
+    
+    <category term="kubeadm" scheme="https://www.webpolayer.com/tags/kubeadm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bitwarden 迁移</title>
+    <link href="https://www.webpolayer.com/rebuild-bit.html"/>
+    <id>https://www.webpolayer.com/rebuild-bit.html</id>
+    <published>2021-05-16T12:36:57.899Z</published>
+    <updated>2021-07-04T06:07:51.898Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;Bitwarden-迁移&quot;&gt;&lt;a href=&quot;#Bitwarden-迁移&quot; class=&quot;headerlink&quot; title=&quot;Bitwarden 迁移&quot;&gt;&lt;/a&gt;Bitwarden</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/tags/Docker/"/>
+    
+    <category term="bitwarden" scheme="https://www.webpolayer.com/tags/bitwarden/"/>
+    
+    <category term="迁移" scheme="https://www.webpolayer.com/tags/%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Docker容器日志清理</title>
+    <link href="https://www.webpolayer.com/cleanDocker-logs.html"/>
+    <id>https://www.webpolayer.com/cleanDocker-logs.html</id>
+    <published>2021-05-16T12:32:14.431Z</published>
+    <updated>2021-07-04T06:02:52.382Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;Docker容器日志清理&quot;&gt;&lt;a href=&quot;#Docker容器日志清理&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://www.webpolayer.com/tags/Docker/"/>
+    
+    <category term="日志" scheme="https://www.webpolayer.com/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说说</title>
+    <link href="https://www.webpolayer.com/talked01.html"/>
+    <id>https://www.webpolayer.com/talked01.html</id>
+    <published>2021-01-27T11:14:48.000Z</published>
+    <updated>2021-01-27T12:07:01.910Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;“愿世间所有美好都能恰逢其时。”&lt;/p&gt;
+&lt;p&gt;“美丽胜于丑陋。&lt;br&gt;显式胜于隐式。&lt;br&gt;简单胜于复杂。&lt;br&gt;复杂胜于复杂。”&lt;/p&gt;
+&lt;p&gt;向左一步，向前一步？&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="自说自话" scheme="https://www.webpolayer.com/categories/%E8%87%AA%E8%AF%B4%E8%87%AA%E8%AF%9D/"/>
+    
+    
+    <category term="说一说" scheme="https://www.webpolayer.com/tags/%E8%AF%B4%E4%B8%80%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typora搭配Github图床撰写文档</title>
+    <link href="https://www.webpolayer.com/Typora-netpic.html"/>
+    <id>https://www.webpolayer.com/Typora-netpic.html</id>
+    <published>2021-01-18T14:12:46.000Z</published>
+    <updated>2021-07-01T12:05:21.947Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;自习惯了用Typora写md格式文档之后，一直就觉得其他工具写文档再也不香了，习惯了md码字后，感觉其他都是渣渣了，就是有一点，默认在md中插入图片的时候，Typora引用的图片地址是当前主机绝对路径，这就出现了，当把md格式的文档复制到其他电脑或发送给其他人看的时候往往会</summary>
+        
+      
+    
+    
+    
+    <category term="Typora" scheme="https://www.webpolayer.com/categories/Typora/"/>
+    
+    
+    <category term="Typora" scheme="https://www.webpolayer.com/tags/Typora/"/>
+    
+    <category term="Github" scheme="https://www.webpolayer.com/tags/Github/"/>
+    
+    <category term="PicGO" scheme="https://www.webpolayer.com/tags/PicGO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo静态页更换电脑后环境配置</title>
+    <link href="https://www.webpolayer.com/1.html"/>
+    <id>https://www.webpolayer.com/1.html</id>
+    <published>2021-01-10T12:06:54.720Z</published>
+    <updated>2021-07-01T12:03:11.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;hexo静态页更换电脑后配置&quot;&gt;&lt;a href=&quot;#hexo静态页更换电脑后配置&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://www.webpolayer.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://www.webpolayer.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给自己的歌</title>
+    <link href="https://www.webpolayer.com/music01.html"/>
+    <id>https://www.webpolayer.com/music01.html</id>
+    <published>2021-01-08T14:31:55.750Z</published>
+    <updated>2021-01-08T14:40:32.965Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h6 id=&quot;给自己的歌&quot;&gt;&lt;a href=&quot;#给自己的歌&quot; class=&quot;headerlink&quot; title=&quot;给自己的歌&quot;&gt;&lt;/a&gt;给自己的歌&lt;/h6&gt;&lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="歌曲" scheme="https://www.webpolayer.com/categories/%E6%AD%8C%E6%9B%B2/"/>
+    
+    
+    <category term="听歌" scheme="https://www.webpolayer.com/tags/%E5%90%AC%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>做事风格</title>
+    <link href="https://www.webpolayer.com/mystyle.html"/>
+    <id>https://www.webpolayer.com/mystyle.html</id>
+    <published>2021-01-07T15:25:04.501Z</published>
+    <updated>2021-07-01T12:08:12.789Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;做事风格&quot;&gt;&lt;a href=&quot;#做事风格&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="哲理" scheme="https://www.webpolayer.com/categories/%E5%93%B2%E7%90%86/"/>
+    
+    
+    <category term="哲理" scheme="https://www.webpolayer.com/tags/%E5%93%B2%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>卜算子·自嘲</title>
+    <link href="https://www.webpolayer.com/self-haha.html"/>
+    <id>https://www.webpolayer.com/self-haha.html</id>
+    <published>2021-01-07T15:15:21.343Z</published>
+    <updated>2021-07-01T12:06:12.191Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;卜算子·自嘲&quot;&gt;&lt;a href=&quot;#卜算子·自嘲&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="卜算子" scheme="https://www.webpolayer.com/categories/%E5%8D%9C%E7%AE%97%E5%AD%90/"/>
+    
+    
+    <category term="自嘲" scheme="https://www.webpolayer.com/tags/%E8%87%AA%E5%98%B2/"/>
+    
+  </entry>
+  
+</feed>
